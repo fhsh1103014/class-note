@@ -1,9 +1,9 @@
 ---
 home: true
-heroText: Vuepress 模板！
-tagline: 快速、簡便、容易運作！
+heroText: 11025的程式設計筆記！
+tagline: 20220304~~~~20220318
 actions:
-  - text: 快速上手
+  - text: 進入
     link: /note/
     type: primary
 ---
